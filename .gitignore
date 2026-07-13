@@ -1,0 +1,7 @@
+.env
+scraper/data/
+__pycache__/
+*.pyc
+venv/
+.venv/
+scraper/.env
